@@ -16,7 +16,7 @@ module.exports = class BotController extends Controller {
     }
 
     async product(request) {
-      return this.reply("Ini produk digital saya, bisa dikunjungi di http://dewakoding.com")
+      return this.reply("Ini produk digital saya, bisa dikunjungi di http://namadomain.com")
     }
 
     async alamatKantor(request) {
